@@ -16,7 +16,7 @@
 #include "OS.h"
 
 // Vari?veis globais
-uint8_t ledstate = 0;			  // Estado atual do LED
+uint8_t ledState = 0;			  // Estado atual do LED
 uint8_t lastButtonDirState;	  // Estado anterior do bot?o direito
 uint8_t currentButtonDirState;  // Estado atual do bot?o direito
 uint8_t lastButtonEsqState;	  // Estado anterior do bot?o esquerdo
